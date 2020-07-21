@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "multer": "^1.4.2",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sucrase": "^3.15.0"
+  }
+}
