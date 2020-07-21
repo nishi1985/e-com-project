@@ -9,10 +9,10 @@ Developed with Singleton pattern
 
 Working on:
 
-[] - rating products and users
+- [ ] Rating products and users
 
-[] - Comment/Chat
+- [ ] Comment/Chat
 
-[] - JWT Authentication 
+- [ ] JWT Authentication 
 
-[] - Front
+- [ ] Front
